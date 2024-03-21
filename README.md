@@ -1,5 +1,5 @@
 <h1>https://joswinemmanuel.github.io/Flutter-Dice-Roll/</h1>
-<h3>Click above link to check webapp hosted in github pages</h3>
+<h3>Click the above link to check the webapp hosted in github pages</h3>
 
 # roll_dice
 
